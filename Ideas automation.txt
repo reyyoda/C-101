@@ -1,0 +1,6 @@
+deleting messages and emails
+sending emails
+password manager
+dice rolling simulator
+rock paper scissors
+tic tac toe
